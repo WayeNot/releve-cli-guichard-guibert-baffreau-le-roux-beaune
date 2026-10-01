@@ -2,7 +2,7 @@
 
 1. Cloner le dépôt de l'équipe, puis se placer dans le dossier du projet.
 2. Copier `config.example.txt` sous le nom `config.txt` et y inscrire le chemin du fichier de relevés.
-🏆. Lancer l'outil sur le fichier d'exemple :
+3. Lancer l'outil sur le fichier d'exemple :
 
    ```
    python3 releve.py --config config.txt
